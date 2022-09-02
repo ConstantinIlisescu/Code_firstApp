@@ -1,6 +1,6 @@
 ﻿namespace Code_firstApp
 {
-    internal class Student
+    public class Student
     {
         public int StudentID { get; set; }
         public string? FirstName { get; set; }
@@ -8,6 +8,5 @@
 
         public string? Town { get; set; }
         public string? UniversityName { get; set; }
-
     }
 }
