@@ -7,8 +7,7 @@
         public string? LastName { get; set; }
 
         public string? Town { get; set; }
+        public string? UniversityName { get; set; }
 
-
-        public University? University { get; set; }
     }
 }
